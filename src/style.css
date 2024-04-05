@@ -4,6 +4,8 @@
 * {
   font-family: Montserrat;
   box-sizing: border-box;
+  font-size: 1.03em;
+  
 }
 
 body {
@@ -59,6 +61,7 @@ body {
   border-radius: 0.5em;
   padding: 0.25em 0.5em;
   color: hsl(0, 0%, 0%);
+  
 }
 
 .new-item-form input:focus {
